@@ -48,3 +48,5 @@ A partir disso, novas hiṕóteses podem ser geradas para posterior análise e a
 
 2. Se obter novos dados não for possível, então deveria-se buscar um modelo de regressão ou classificação robusto o suficiente para datasets desbalanceados, utilizando de algumas técnica como undersampling.
 
+3. Outros modelos de predição e/ou classificação poderiam ser usados em uma nova iteração sobre o problema. SVM ou K-Means poderiam ser boas escolhar
+
